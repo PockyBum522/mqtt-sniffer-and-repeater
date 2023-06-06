@@ -348,3 +348,4 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+MqttSnifferAndRelay.Core/Models/Secrets.cs
